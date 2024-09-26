@@ -1,0 +1,1 @@
+Sistema desenvolvido pela IDE Eclipse na linguagem de programação Java para realizar um teste de ansiedade em que o usuário irá responder com "sim" ou "não" para as perguntas realizadas pelo sistema e por fim, dara um retorno de acordo com a quantidade de respostas "sim" com frases de conselho e apoio para uma ajuda e possivel solução a situação mental do usuário.
