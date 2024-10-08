@@ -1,0 +1,15 @@
+a) Crie um arquivo de texto com o nome “Comandos git” e digite os comandos utilizados na aula e para que
+serve, após isso, realizar o envio do arquivo para a pasta DesenvolvimentoSistemas
+
+git init - inicializa a pasta para o software de versionamento.
+git add "arquivo" - transfere o arquivo para a área de alteração.
+git add . - transfere todos os arquivos dentro do repositório atual para a área de alteração.
+git remote add "nome do caminho" - conecta com um repositório do GitHub por um link.
+git commit –m - adicionando os arquivos na área de alteração ao subrepositórios.
+git push –u origin master - envia o arquivo para o repositório remoto do GitHub.
+git status - mostra o status dos arquivos adicionado a área de alteração.
+git -version - mostra a versão instalada do git.
+dir - mostra os arquivos dentro do diretório.
+mkdir "nome da pasta" - cria um diretório local.
+cd "nome da pasta" - entra na pasta.
+cd .. - volta para a pasta anterior. 
